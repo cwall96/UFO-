@@ -200,3 +200,5 @@ p=freg[1]
 print(p)
 
 print('git test')
+
+print('stable')
